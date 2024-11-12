@@ -47,5 +47,4 @@ public class TestTekst {
 		
 		assertEquals(str,tekst.toString());
 	}
-	
 }
